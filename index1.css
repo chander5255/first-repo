@@ -1,0 +1,14 @@
+div{
+	border:1px solid black;
+}
+#p1{
+	padding:10px;
+	margin:35px 0px;
+	border:1px solid black;
+	padding:20px;
+	text-align:center;
+	font-size:45px;
+	font-weight:bold;
+	background-color:black;
+	color:white;
+}
